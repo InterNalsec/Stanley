@@ -9,7 +9,7 @@ import sys
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
     
-proxys = open('proxies.txt').readlines()
+proxys = open('proxy.txt').readlines()
 bots = len(proxys)
 
 def ascii_vro():
@@ -132,6 +132,20 @@ def tools():
     clear()
     si()
     print(f'''
+                                             _.oo.
+                 _.u[[/;:,.         .odMMMMMM'
+              .o888UU[[[/;:-.  .o@P^    MMM^
+             oN88888UU[[[/;::-.        dP^
+            dNMMNN888UU[[[/;:--.   .o@P^
+           ,MMMMMMN888UU[[/;::-. o@^
+           NNMMMNN888UU[[[/~.o@P^
+           888888888UU[[[/o@^-..                   DDOS PANEL V-C2
+          oI8888UU[[[/o@P^:--..
+       .@^  YUU[[[/o@^;::---..
+     oMP     ^/o@P^;:::---..
+  .dMMM    .o@^ ^;::---...
+ dMMMMMMM@^`       `^^^^
+YMMMUP^
                                 \x1b[38;2;0;212;14m╔═══════════════╗
                                 \x1b[38;2;0;212;14m║     \x1b[38;2;0;255;255mTools     \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m╔═══════════════╩══════╦════════╩═══════════════╗
