@@ -125,7 +125,7 @@ _\  \\\p__`o-o'__\  \\\p__`o-o'__\  \\\p__`o-o'__\  \\\p__`o-o'_
     clear()
 
 def si():
-    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233m1337 \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to Stanley CnC! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mGithub: SkyWtkh-weird1337 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mNew Methods \x1b[38;2;0;255;255m+ \x1b[38;2;233;233;233mNew UI!')
+    print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233m1337 \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to V-C2! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mGithub: InterNalsec \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mNew Methods \x1b[38;2;0;255;255m+ \x1b[38;2;233;233;233mNew UI!')
     print("")
 
 def tools():
@@ -140,7 +140,7 @@ def tools():
            ,MMMMMMN888UU[[/;::-. o@^
            NNMMMNN888UU[[[/~.o@P^
            888888888UU[[[/o@^-..                   DDOS PANEL V-C2
-          oI8888UU[[[/o@P^:--..
+          oI8888UU[[[/o@P^:--..                    CC: ZxCDDoS <3
        .@^  YUU[[[/o@^;::---..
      oMP     ^/o@P^;:::---..
   .dMMM    .o@^ ^;::---...
@@ -165,7 +165,7 @@ def rules():
                                 \x1b[38;2;0;212;14m║     \x1b[38;2;0;255;255mRules     \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m╔═══════════════╩═══════════════╩═══════════════╗
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m1. Do not attack without someone's permission \x1b[38;2;0;212;14m║
-                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m2. Do not attack .gov/.gob/.edu/.mil domains  \x1b[38;2;0;212;14m║
+                \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m2. Do not attack .ps domains                  \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m3. Do not spam attacks                        \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m4. Only attack stress testing servers         \x1b[38;2;0;212;14m║
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;255;255m5. Don't skid the panel                       \x1b[38;2;0;212;14m║
@@ -220,31 +220,13 @@ def layer4():
                \x1b[38;2;0;212;14m╚═══════════════════════╩═════════════════════╝
 ''')
 
-def amp_games():
-    clear()
-    si()
-    print(f'''
-                              \x1b[38;2;0;212;14m╔═══════════════╗
-                              \x1b[38;2;0;212;14m║\x1b[38;2;0;255;255m AMP's \x1b[38;2;0;212;14m/ \x1b[38;2;0;255;255mGames \x1b[38;2;0;212;14m║
-               \x1b[38;2;0;212;14m╔══════════════╩════════╦══════╩══════════════╗
-               \x1b[38;2;0;212;14m║   \x1b[38;2;0;255;255movhamp              \x1b[38;2;0;212;14m║   \x1b[38;2;0;255;255mr6-drop           \x1b[38;2;0;212;14m║
-               \x1b[38;2;0;212;14m║   \x1b[38;2;0;255;255mfivem-drop          \x1b[38;2;0;212;14m║   \x1b[38;2;0;255;255mvse               \x1b[38;2;0;212;14m║
-               \x1b[38;2;0;212;14m║   \x1b[38;2;0;255;255mfortnite-fly        \x1b[38;2;0;212;14m║   \x1b[38;2;0;255;255mgame-crash        \x1b[38;2;0;212;14m║
-               \x1b[38;2;0;212;14m╚═══════════════════════╩═════════════════════╝
-''')
-
-
 def menu():
-    sys.stdout.write(f"\x1b]2;Stanley Net --> Stars: [{bots}] | Online Users: [1] | Methods: [25] | Bypass: [10] | Amps: [1]\x07")
+    sys.stdout.write(f"\x1b]2;V-C2 Net --> Stars: [{bots}] | Online Users: [2] | Methods: [♾️] | Bypass: [♾️] | Amps: [♾️]\x07")
     clear()
     print('\x1b[38;2;0;255;255m[ \x1b[38;2;233;233;233m1337 \x1b[38;2;0;255;255m] | \x1b[38;2;233;233;233mWelcome to Stanley CnC! \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mGithub: weird1337 \x1b[38;2;0;255;255m| \x1b[38;2;233;233;233mNew Methods \x1b[38;2;0;255;255m+ \x1b[38;2;233;233;233mNew UI!')
     print("")
     print("""
-                       \x1b[38;2;0;212;14m.▄▄ ·\x1b[38;2;0;186;45m ▄▄▄▄▄ ▄▄▄·\x1b[38;2;0;150;88m  ▐ ▄ ▄▄\x1b[38;2;0;113;133m▌  ▄▄▄ .\x1b[38;2;0;83;168m ▄· ▄▌
-                        \x1b[38;2;0;212;14m▐█ ▀.\x1b[38;2;0;186;45m •██  ▐█ ▀█\x1b[38;2;0;150;88m •█▌▐███\x1b[38;2;0;113;133m•  ▀▄.▀·\x1b[38;2;0;83;168m▐█▪██▌
-                        \x1b[38;2;0;212;14m▄▀▀▀█\x1b[38;2;0;186;45m▄ ▐█.▪▄█▀▀█\x1b[38;2;0;150;88m ▐█▐▐▌██\x1b[38;2;0;113;133m▪  ▐▀▀▪▄\x1b[38;2;0;83;168m▐█▌▐█▪
-                        \x1b[38;2;0;212;14m▐█▄▪▐\x1b[38;2;0;186;45m█ ▐█▌·▐█ ▪▐\x1b[38;2;0;150;88m▌██▐█▌▐█\x1b[38;2;0;113;133m▌▐▌▐█▄▄▌\x1b[38;2;0;83;168m▐█▀·.
-                        \x1b[38;2;0;212;14m ▀▀▀▀\x1b[38;2;0;186;45m  ▀▀▀  ▀  ▀\x1b[38;2;0;150;88m ▀▀ █▪.▀\x1b[38;2;0;113;133m▀▀  ▀▀▀ \x1b[38;2;0;83;168m  ▀ • 
+                       
                 \x1b[38;2;0;212;14m╔═══════════\x1b[38;2;0;186;45m════════\x1b[38;2;0;150;88m═══════\x1b[38;2;0;113;133m═════\x1b[38;2;0;83;168m═════\x1b[38;2;0;49;147m══════════╗
                 \x1b[38;2;0;212;14m║       \x1b[38;2;239;239;239mWelcome to Stanley Net DDoS Panel      \x1b[38;2;0;49;147m║
                 \x1b[38;2;0;212;14m║ \x1b[38;2;0;49;147m- - -   \x1b[38;2;239;239;239mThe best free panel on github  \x1b[38;2;0;212;14m- - - \x1b[38;2;0;49;147m║
@@ -265,8 +247,6 @@ def main():
             layer7()
         elif cnc == "layer4" or cnc == "LAYER4" or cnc == "L4" or cnc == "l4":
             layer4()
-        elif cnc == "amp/games" or cnc == "AMP/GAMES" or cnc == "amp/game" or cnc == "amps/game" or cnc == "amps/games" or cnc == "amp/games" or cnc == "AMP/GAME":
-            amp_games()
         elif cnc == "rule" or cnc == "RULES" or cnc == "rules" or cnc == "RULES" or cnc == "RULE34":
             rules()
         elif cnc == "clear" or cnc == "CLEAR" or cnc == "CLS" or cnc == "cls":
